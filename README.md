@@ -1,5 +1,5 @@
 # Name: PacMan
-<img src="PacMan1.PNG" width='300' />
+<img src="PacMan1.png" width='300' />
 
 ## Description: 
 PacMan moves from one edge of the page to another. This is achieved by varying the 4 pacman images. 
